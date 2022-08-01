@@ -1,2 +1,2 @@
 # QRcodeRecognition
-QRcode recognition using C++,OpenCV,on Windows
+QRcode recognition using C++,OpenCV,Qt,on Windows
